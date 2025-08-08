@@ -59,7 +59,7 @@ This project is licensed under the MIT License.
 ## 💻 voidcompile
 Stay updated with daily Python & AI projects on our channel:
 
-📢 [github: @voidcompile](https://github.com/voidcompile)
-📢 [Telegram: @voidcompile](https://t.me/voidcompile)
-📢 [youtube: @voidcompile](https://www.youtube.com/@voidcompile)
-📢 [email: voidcompile@gmail.com]
+📢[github: bluepirsook25]
+📢
+📢
+📢 [email: sampython25@gmail.com]
