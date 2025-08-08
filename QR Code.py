@@ -1,7 +1,7 @@
 import qrcode
 
 # The text or URL to encode
-data = "https://t.me/voidcompile"  # You can change this to anything (link, message, etc.)
+data = "https://sites.google.com/d/1feJf814B-wBohlXwZmvXnWC2dN1Nrfig/p/1rHktutw4ChDvNCFUdFmk_FqKfd54NIGH/edit"  # You can change this to anything (link, message, etc.)
 
 # Create a QR Code instance with basic settings
 qr = qrcode.QRCode(
