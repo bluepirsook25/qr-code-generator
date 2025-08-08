@@ -56,8 +56,6 @@ This project is licensed under the MIT License.
 
 ---
 
-## 💻 voidcompile
-Stay updated with daily Python & AI projects on our channel:
 
 📢[github: bluepirsook25]
 📢
